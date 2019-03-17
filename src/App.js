@@ -4,7 +4,7 @@ import Form from "./components/Forms";
 import axios from "axios";
 import Recipes from "./components/Recipes";
 
-const API_KEY = "103cbffbf4b6b45784ac1d93fdf94b09";
+const API_KEY = "API-KEYS";
 const SITE = "https://www.food2fork.com/api/";
 
 class App extends Component {
